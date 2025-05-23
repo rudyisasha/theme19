@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+header{
+color:green;	
+}
+li{
+display:inline;
+background:brown;
+}
+img{
+height:170px;
+border:solid green 5px;
+width:300px;
+}
+main{
+color:yellow;
+}
+body{
+background-image: url(block.jpg);
+}
+.bio{
+color:green;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
